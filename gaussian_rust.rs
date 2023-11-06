@@ -1,4 +1,5 @@
 use plotters::prelude::*;
+
 fn pdf(x: f64, y: f64) -> f64 {
     const SDX: f64 = 0.1;
     const SDY: f64 = 0.1;
